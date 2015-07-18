@@ -39,7 +39,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ## This function computes the inverse of special wrapper matrix created by above
 ## makeCacheMatrix function. If inverse exists, this function will return the invese.
-## Otherwise, it will conpute the inverse and cache it's results
+## Otherwise, it will compute the inverse and cache it's results
 ##
 ## Params:
 ## x - special wrapper matrix creatd by makeCacheMatrix function
